@@ -1,4 +1,4 @@
-# Halı Mağazası Yönetim Uygulaması
+# Halı Stok Uygulaması
 
 ## Genel Bakış
 Bu uygulama, Python ve PyQt5 ile geliştirilmiş kapsamlı bir halı mağazası yönetim sistemidir. Halı envanterini yönetmek için sezgisel bir arayüz sunar ve halı kayıtlarını ekleme, görüntüleme, arama ve silme özelliklerini içerir.
