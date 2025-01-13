@@ -1,2 +1,2 @@
-# Hal-Stok-Uygulamas-
+# Hal-Stok-Uygulaması-
 Halı stok uygulaması
